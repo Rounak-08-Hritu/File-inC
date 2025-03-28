@@ -1,0 +1,2 @@
+Name:Hritu 
+Age=20
